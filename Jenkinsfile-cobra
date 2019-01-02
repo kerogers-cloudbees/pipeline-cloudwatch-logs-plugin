@@ -1,0 +1,3 @@
+@Library('cd-kata') _
+
+buildPluginOnAWS()
